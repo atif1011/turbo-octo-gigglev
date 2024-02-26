@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services I Offer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></link>
+</head>
+<body class="bg-white">
+    <div class="max-w-screen-xl mx-auto">
+        <nav class="bg-white py-4">
+            <div class="flex justify-between items-center px-8">
+                <div class="text-lg">
+                </div>
+                <div class="flex items-center">
+                    <a href="#" class="text-black px-4 py-2 hover:text-gray-800">Home</a>
+                    <a href="#" class="text-black px-4 py-2 hover:text-gray-800">Activities</a>
+                    <a href="#" class="text-black px-4 py-2 hover:text-gray-800">Contact</a>
+                    <a href="#" class="text-black px-4 py-2 hover:text-gray-800">My Account</a>
+                </div>
+            </div>
+        </nav>
+
+        <div class="text-center py-12">
+            <h1 class="text-5xl font-bold mb-8">Services I Offer</h1>
+            <div class="flex justify-center space-x-8">
+                <div class="w-1/4">
+                    <h2 class="text-2xl font-semibold mb-4">Repetition</h2>
+                    <p class="mb-6">Involve repetition of the words and phrases with suitable images and a recording of the word or phrase spoken in English.</p>
+                    <button class="bg-black text-white px-6 py-2 hover:bg-gray-800">Try now</button>
+                </div>
+                <div class="w-1/4">
+                    <h2 class="text-2xl font-semibold mb-4">Memory</h2>
+                    <p class="mb-6">This would use the same words, images, recordings of the spoken words and written words as in the repetition activity.</p>
+                    <button class="bg-black text-white px-6 py-2 hover:bg-gray-800">Try now</button>
+                </div>
+                <div class="w-1/4">
+                    <h2 class="text-2xl font-semibold mb-4">Speed & accuracy</h2>
+                    <p class="mb-6">Associating the spoken words with the correct image.</p>
+                    <button class="bg-black text-white px-6 py-2 hover:bg-gray-800">Try now</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
